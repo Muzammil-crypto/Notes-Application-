@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028136230243",
+    "firebase_url": "https://studioapp-62324-default-rtdb.firebaseio.com",
+    "project_id": "studioapp-62324",
+    "storage_bucket": "studioapp-62324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028136230243:android:7a37b9997ddcc175e54756",
+        "android_client_info": {
+          "package_name": "ContactServicesApplication.contact_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028136230243-7i58k443so51n7nk16g42ctlgnbi1u52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGFM4DQtKHmTpWdLOK9FqBuqGLFlL9s8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028136230243-7i58k443so51n7nk16g42ctlgnbi1u52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
